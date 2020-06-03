@@ -8,3 +8,4 @@ master dissertation project: text retrieval conference - incident streams 2020. 
 * RCNN
 * HAN
 * seq2seq + attention
+* transformer
