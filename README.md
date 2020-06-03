@@ -11,4 +11,4 @@ master dissertation project: text retrieval conference - incident streams 2020. 
 * seq2seq + attention: 
 * transformer: 
 
-<img src="image/sheffield.png" width="600">
+<img src="image/sheffield.png" width="550">
