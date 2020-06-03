@@ -4,7 +4,7 @@ master dissertation project: text retrieval conference - incident streams 2020. 
 ### Reference:
 * fastText: Bag of tricks for efficient text classification
 * TextCNN: Convolutional neural networks for sentence classification
-* CharCNN: [Character-level Convolutional Networks for Text Classification] (https://arxiv.org/pdf/1509.01626.pdf)
+* CharCNN: [Character-level Convolutional Networks for Text Classification](https://arxiv.org/pdf/1509.01626.pdf)
 * RNN: Recurrent convolutional neural networks for text classification
 * RCNN: Recurrent convolutional neural networks for text classification
 * HAN: Hierarchical attention networks for document classification
