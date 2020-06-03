@@ -10,3 +10,5 @@ master dissertation project: text retrieval conference - incident streams 2020. 
 * HAN: [Hierarchical attention networks for document classification](https://www.aclweb.org/anthology/N16-1174.pdf)
 * seq2seq + attention: 
 * transformer: 
+
+<img src="image/sheffield.png">
