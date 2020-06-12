@@ -1,4 +1,6 @@
 
 ## Classification of tweets for aiding crisis and disaster management.
 
-<img src="image/sheffield.png" width="550">
+dataset: http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html
+
+<img src="image/sheffield.png" width="500">
