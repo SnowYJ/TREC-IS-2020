@@ -1,4 +1,4 @@
-# TREC-IS-2020
-master dissertation project: text retrieval conference - incident streams 2020. (multi-class text classification)
+
+## master dissertation project: Classification of tweets for aiding crisis and disaster management.
 
 <img src="image/sheffield.png" width="550">
