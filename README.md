@@ -3,8 +3,8 @@
 
 * system_0: dataset processing
 * system_1: sklearn one-vs-rest
-* system_2: pytorch bi-directional LSTM
-* system_3: pytorch charCNN
+* system_2: pytorch multi-class bi-LSTM
+* system_3: pytorch multi-label BERT 
 
 dataset: http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html
 
