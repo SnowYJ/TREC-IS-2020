@@ -1,8 +1,10 @@
 
 ## Classification of tweets for aiding crisis and disaster management.
 
-* system_0: dataset obsservation
-* system_1: pytorch - bi-directional LSTM
+* system_0: dataset processing
+* system_1: sklearn one-vs-rest
+* system_2: pytorch bi-directional LSTM
+* system_3: pytorch charCNN
 
 dataset: http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html
 
