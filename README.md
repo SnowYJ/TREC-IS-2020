@@ -2,7 +2,7 @@
 ## Classification of tweets for aiding crisis and disaster management.
 
 * system_0: dataset processing
-* system_1: sklearn one-vs-rest
+* system_1: sklearn multi-class & multi-label Logistic Regression
 * system_2: pytorch multi-class bi-LSTM
 * system_3: pytorch multi-label BERT 
 
