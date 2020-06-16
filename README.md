@@ -1,6 +1,8 @@
 
 ## Classification of tweets for aiding crisis and disaster management.
 
+TREC-IS dataset includes two labels. One is 'categories' label involving 25 information type, which is a multi-label tweets classification. Another is 'priority' label that includes four categories. It is a multi-class tweets classification.
+
 * system_0: dataset processing
 * system_1: sklearn multi-class & multi-label Logistic Regression
 * system_2: pytorch multi-class bi-LSTM
