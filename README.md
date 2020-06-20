@@ -5,8 +5,8 @@ TREC-IS dataset includes two labels. One is 'categories' label involving 25 info
 
 * system_0: dataset processing (data cleaning, data augmentation)
 * system_1: Logistic Regression
-* system_2: bi-GRU and glove word embedding (multi-class)
-* system_3: bi-GRU and glove word embedding (multi-label)
+* system_2: bi-GRU and glove (multi-class)
+* system_3: bi-GRU and glove (multi-label)
 
 dataset: http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html
 
