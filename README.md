@@ -13,9 +13,9 @@
 
 | Actionable | All | All | Actionable | All |
 | **0.1695** | **0.2825** | - | - | - |
-| - | - | **0.9039** | - | - | - |
-| - | - | - | - | **0.1132** | - |
-| - | - | - | - | - | **0.0563** |
+| - | - | **0.9039** | - | - |
+| - | - | - | **0.1132** | - |
+| - | - | - | - | **0.0563** |
 
 **[Data augmentation:](https://github.com/jasonwei20/eda_nlp)** Easy Data Augmentation Techniques (EDA).
 
