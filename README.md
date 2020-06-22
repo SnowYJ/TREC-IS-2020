@@ -9,12 +9,13 @@
 > <img src="image/metrics_2.png" width="500">
 > <img src="image/metrics_3.png" width="500">
 
-**2019 Result:**
-| Name | Academy | score | 
-| - | :-: | -: | 
-| Harry Potter | Gryffindor| 90 | 
-| Hermione Granger | Gryffindor | 100 | 
-| Draco Malfoy | Slytherin | 90 |
+**[2019 Ressult:](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)**
+| positive F1 | Accuracy | RMSE | 
+| Actionable | All | All | Actionable | All |
+| **0.1695** | **0.2825** | - | - | - |
+| - | - | **0.9039** | - | - | - |
+| - | - | - | - | **0.1132** | - |
+| - | - | - | - | - | **0.0563** |
 
 **[Data augmentation:](https://github.com/jasonwei20/eda_nlp)** Easy Data Augmentation Techniques (EDA).
 
