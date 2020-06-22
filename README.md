@@ -9,11 +9,12 @@
 > <img src="image/metrics_2.png" width="500">
 > <img src="image/metrics_3.png" width="500">
 
-**[Data augmentation](https://github.com/jasonwei20/eda_nlp)**
+**[Data augmentation:](https://github.com/jasonwei20/eda_nlp)** Easy Data Augmentation Techniques (EDA).
 
 * system_0: dataset processing (data cleaning, data augmentation)
 * system_1: Logistic Regression
 * system_2: bi-GRU and glove (multi-class)
 * system_3: bi-GRU and glove (multi-label)
+* system_4: Bert (multi-label)
 
 <img src="image/sheffield.png" width="500">
