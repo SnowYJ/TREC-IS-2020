@@ -13,9 +13,9 @@
 
 **Project:**
 >* system_0: dataset processing (data cleaning, data augmentation)
-* system_1: Logistic Regression
-* system_2: bi-GRU and glove (multi-class)
-* system_3: bi-GRU and glove (multi-label)
-* system_4: Bert (multi-label)
+>* system_1: Logistic Regression
+>* system_2: bi-GRU and glove (multi-class)
+>* system_3: bi-GRU and glove (multi-label)
+>* system_4: Bert (multi-label)
 
 <img src="image/sheffield.png" width="500">
