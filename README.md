@@ -9,25 +9,12 @@
 > <img src="image/metrics_2.png" width="500">
 > <img src="image/metrics_3.png" width="500">
 
-| F1 | Accuracy | RMSE |
-| Actionable | All | All | Actionable | All |
+| Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
 | :-: | :-: | :-: | :-: | :-: | 
 | **0.1695** | **0.2825** | - | - | - |
 | - | - | **0.9039** | - | - |
 | - | - | - | **0.1132** | - |
 | - | - | - | - | **0.0563** |
-
-
-\begin{tabular}{|c|c|c|}
-\hline
-\multicolumn{2}{|c|}{成绩}  \\ \hline
-语文  &   数学  \\   
-\hline
-
-87    & 100  \\
-\hline
-
-\end{tabular}
 
 
 **[Data augmentation:](https://github.com/jasonwei20/eda_nlp)** Easy Data Augmentation Techniques (EDA).
