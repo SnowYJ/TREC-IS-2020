@@ -17,7 +17,6 @@
 | - | - | - | **0.1132** | - |
 | - | - | - | - | **0.0563** |
 
-\begin{document}
 
 \begin{tabular}{|c|c|c|}
 \hline
