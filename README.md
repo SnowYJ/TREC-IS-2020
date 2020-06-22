@@ -1,7 +1,7 @@
 
 ## Classification of tweets for aiding crisis and disaster management.
 
-**Dataset:** 
+**[Dataset:](https://github.com/jasonwei20/eda_nlp)** 
 >dataset from Text Retrival Conference Incident Stream (TREC-IS) includes two labels. One is 'categories' label involving 25 information type, which is a multi-label classification task. Another is 'priority' label that includes four categories. It is a multi-class classification task.
 
 **Metrics:** 
