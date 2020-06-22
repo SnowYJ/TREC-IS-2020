@@ -10,7 +10,6 @@
 > <img src="image/metrics_3.png" width="500">
 
 | F1 | Accuracy | RMSE |
-| - | :-: | -: | :-: | -: | 
 | Actionable | All | All | Actionable | All |
 | - | :-: | -: | :-: | -: | 
 | **0.1695** | **0.2825** | - | - | - |
