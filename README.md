@@ -1,7 +1,13 @@
 
 ## Classification of tweets for aiding crisis and disaster management.
 
-Text Retrival Conference Incident Stream (TREC-IS) dataset includes two labels. One is 'categories' label involving 25 information type, which is a multi-label tweets classification. Another is 'priority' label that includes four categories. It is a multi-class tweets classification.
+**Dataset:** 
+>dataset from Text Retrival Conference Incident Stream (TREC-IS) includes two labels. One is 'categories' label involving 25 information type, which is a multi-label classification task. Another is 'priority' label that includes four categories. It is a multi-class classification task.
+
+**Metrics:** 
+> <img src="image/metrics_1.png" width="500">
+> <img src="image/metrics_2.png" width="500">
+> <img src="image/metrics_3.png" width="500">
 
 * system_0: dataset processing (data cleaning, data augmentation)
 * system_1: Logistic Regression
