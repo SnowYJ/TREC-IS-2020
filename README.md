@@ -11,7 +11,8 @@
 
 **[Data augmentation:](https://github.com/jasonwei20/eda_nlp)** Easy Data Augmentation Techniques (EDA).
 
-* system_0: dataset processing (data cleaning, data augmentation)
+**Project:**
+>* system_0: dataset processing (data cleaning, data augmentation)
 * system_1: Logistic Regression
 * system_2: bi-GRU and glove (multi-class)
 * system_3: bi-GRU and glove (multi-label)
