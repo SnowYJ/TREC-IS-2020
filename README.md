@@ -17,6 +17,20 @@
 | - | - | - | **0.1132** | - |
 | - | - | - | - | **0.0563** |
 
+\begin{document}
+
+\begin{tabular}{|c|c|c|}
+\hline
+\multicolumn{2}{|c|}{成绩}  \\ \hline
+语文  &   数学  \\   
+\hline
+
+87    & 100  \\
+\hline
+
+\end{tabular}
+
+
 **[Data augmentation:](https://github.com/jasonwei20/eda_nlp)** Easy Data Augmentation Techniques (EDA).
 
 **Project:**
