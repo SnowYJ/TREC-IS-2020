@@ -4,14 +4,12 @@
 **[Dataset:](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html)** 
 >Dataset from Text Retrival Conference Incident Stream (TREC-IS) includes two labels. One is 'categories' label involving 25 information type, which is a multi-label classification task. Another is 'priority' label that includes four categories. It is a multi-class classification task.
 
-**[2019 Metrics:](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)** 
+**[2019 Metrics and result:](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)** 
 > <img src="image/metrics_1.png" width="500">
 > <img src="image/metrics_2.png" width="500">
 > <img src="image/metrics_3.png" width="500">
-
-**[2019 Ressult:](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)**
-
-| Actionable | All | All | Actionable | All |
+>
+>| Actionable | All | All | Actionable | All |
 | - | :-: | -: | :-: | -: | 
 | **0.1695** | **0.2825** | - | - | - |
 | - | - | **0.9039** | - | - |
