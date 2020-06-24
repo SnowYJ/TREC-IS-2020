@@ -28,7 +28,7 @@
 **My result:**
 | System | Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
 | :-: | :-: | :-: | :-: | :-: | :-: | 
-| LR | - | 0.5239 | - | - | 0.0902 |
+| LR | - | 0.2426 | - | - | 0.0401 |
 | RNN | - |  | - | - | - |
 | Bert | - | - | - | - | - |
 | - | - | - | - | - | - |
