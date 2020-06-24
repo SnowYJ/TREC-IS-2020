@@ -26,4 +26,11 @@
 >* system_3: bi-GRU and glove (multi-label)
 >* system_4: Bert (multi-class)
 
+| System | Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+| LR | - | - | - | - | 0.0902 |
+| RNN | - |  | - | - | - |
+| Bert | - | - | - | - | - |
+| - | - | - | - | - | - |
+
 <img src="image/sheffield.png" width="500">
