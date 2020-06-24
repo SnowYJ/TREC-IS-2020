@@ -9,12 +9,12 @@
 > <img src="image/metrics_2.png" width="500">
 > <img src="image/metrics_3.png" width="500">
 
-| Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
-| :-: | :-: | :-: | :-: | :-: | 
-| **0.1695** | **0.2825** | - | - | - |
-| - | - | **0.9039** | - | - |
-| - | - | - | **0.1132** | - |
-| - | - | - | - | **0.0563** |
+| Group | Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
+| :-: | :-: | :-: | :-: | :-: | :-: | 
+|irlabISI| **0.1695** | **0.2825** | - | - | - |
+|SC| - | - | **0.9039** | - | - |
+|irlabISI| - | - | - | **0.1132** | - |
+|BJUTDMS| - | - | - | - | **0.0563** |
 
 
 **[Data augmentation:](https://github.com/jasonwei20/eda_nlp)** Easy Data Augmentation Techniques (EDA).
