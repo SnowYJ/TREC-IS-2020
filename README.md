@@ -26,7 +26,7 @@
 |BJUTDMS| - | - | - | - | **0.0563** |
 >
 | System | Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
-| :-: | :-: | :-: | :-: | :-: | :-: | 
+| :--: | :-: | :-: | :-: | :-: | :-: | 
 | LR | - | 0.2426 | 0.8191 | - | 0.0401 |
 | RNN | - |  | - | - | - |
 | Bert | - | - | - | - | 0.0523 |
