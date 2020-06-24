@@ -16,7 +16,7 @@
 >* system_3: bi-GRU and glove (multi-label)
 >* system_4: Bert (multi-class)
 
-**2019-A result:** As for first three, the lower, the better. As for the last two, the higher, the better.
+**2019-A result:**
 
 | Group | Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
 | :-: | :-: | :-: | :-: | :-: | :-: | 
