@@ -18,14 +18,14 @@
 
 **Result:**
 >
->| Group | Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
+| Group | Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 |irlabISI| **0.1695** | **0.2825** | - | - | - |
 |SC| - | - | **0.9039** | - | - |
 |irlabISI| - | - | - | **0.1132** | - |
 |BJUTDMS| - | - | - | - | **0.0563** |
 >
->| System | Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
+| System | Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | LR | - | 0.2426 | 0.8191 | - | 0.0401 |
 | RNN | - |  | - | - | - |
