@@ -16,9 +16,6 @@
 |irlabISI| - | - | - | **0.1132** | - |
 |BJUTDMS| - | - | - | - | **0.0563** |
 
-
-**[Data augmentation:](https://github.com/jasonwei20/eda_nlp)** Easy Data Augmentation Techniques (EDA).
-
 **Project:**
 >* system_0: dataset processing (data cleaning, data augmentation)
 >* system_1: Logistic Regression
