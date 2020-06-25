@@ -20,15 +20,15 @@
 >
 | Group | Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
 | :-: | :-: | :-: | :-: | :-: | :-: | 
-|irlabISI| **0.1695** | **0.2825** | - | - | - |
-|SC| - | - | **0.9039** | - | - |
-|irlabISI| - | - | - | **0.1132** | - |
-|BJUTDMS| - | - | - | - | **0.0563** |
+|irlabISI| 0.1695 | 0.2825 | - | - | - |
+|SC| - | - | 0.9039 | - | - |
+|irlabISI| - | - | - | 0.1132 | - |
+|BJUTDMS| - | - | - | - | 0.0563 |
 >
 | System | Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
 | :--: | :-: | :-: | :-: | :-: | :-: | 
 | LR | - | 0.2426 | 0.8191 | - | 0.0401 |
-| RNN | - | 0.4722 | - | - | 0.0476 |
+| RNN | - | 0.4722 | 0.9030 | - | 0.0476 |
 | Bert | - | - | - | - | 0.0523 |
 | - | - | - | - | - | - |
 
