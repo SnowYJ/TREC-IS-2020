@@ -1,26 +1,24 @@
 
 ## Classification of tweets for aiding crisis and disaster management.
 
-**[2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)**
+### [2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
 
 >* multi-label and new information type.
 >* metrics: F1-score and accuracy for actionable and all information type in multi-label task. RMSE for actionable and all information type in multi-class task.
 >* 6% participants use word embedding.
 >* Deep learning is increasing popular from 29% to 39%. However, classic machine learning is more effective.
 >* No participants use link information.
+>* System Performance:
+><image src="image/overview.png" width="500">
 
-**System Performance:**
-
-<image src="image/overview.png" width="500">
-
-**Project:**
+### Project:
 >* system_0: dataset processing (data cleaning, data augmentation)
 >* system_1: Logistic Regression
 >* system_2: bi-GRU and glove (multi-class)
 >* system_3: bi-GRU and glove (multi-label)
 >* system_4: Bert (multi-class)
 
-**Result:**
+### Result:
 >
 | Group | Actionable F1 | All F1 | All Accuracy | Actionable RMSE | All RMSE |
 | :-: | :-: | :-: | :-: | :-: | :-: | 
