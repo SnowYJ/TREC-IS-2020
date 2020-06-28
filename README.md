@@ -9,7 +9,7 @@
 * Deep learning is increasing popular from 29% to 39%. However, classic machine learning is more effective.
 * No participants use link information.
 * System Performance:
-<image src="image/overview.png" width="700">
+<image src="image/overview.png" width="800">
 
 [TREC-IS Dataset](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html)
 [2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
