@@ -7,7 +7,7 @@
 * Metrics: F1-score and accuracy for actionable and all information type in multi-label task. RMSE for actionable and all information type in multi-class task.
 * 6% participants use word embedding.
 * Deep learning is increasing popular from 29% to 39%. However, classic machine learning is more effective.
-* **No participants use link information!**
+* **No participants use link information!** "it seems likely that usage of such data is still largely unexplored for this task."
 * System Performance:
 <image src="image/overview.png" width="800">
 
