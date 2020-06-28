@@ -23,7 +23,9 @@
 [TREC-IS Dataset](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html),
 [2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
 
-### Project:
+****
+
+### My Project:
 * system_0: dataset processing (data cleaning, data augmentation)
 * system_1: Logistic Regression
 * system_2: bi-GRU and glove (multi-class)
