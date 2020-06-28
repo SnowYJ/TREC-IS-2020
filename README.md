@@ -11,6 +11,15 @@
 * System Performance:
 <image src="image/overview.png" width="800">
 
+### Eight Participants Notebook Conclusion:
+* CNN
+* SIF sentence embeddings, pre-trained sentence embeddings, BERT word embeddings + DNN
+* Data enhancement + glove.840B.300d + bi-lstm + NN
+* TF-IDF + k-nearest neighbors.
+* Feature engineering + GBT, Random Forest and linear regression.
+* Data augmentation (GPT-2, smote) + bi-LSTM variants.
+
+
 [TREC-IS Dataset](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html),
 [2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
 
