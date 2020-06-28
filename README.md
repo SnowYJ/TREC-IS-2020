@@ -2,14 +2,12 @@
 ## Classification of tweets for aiding crisis and disaster management.
 
 **[TREC-IS Dataset:](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html)** 
+
 >Dataset from Text Retrival Conference Incident Stream (TREC-IS) includes two labels. One is 'categories' label involving 25 information type, which is a multi-label classification task. Another is 'priority' label that includes four categories. It is a multi-class classification task.
 
-**[2019 Metrics:](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)** 
-> <img src="image/metrics_1.png" width="500">
-> <img src="image/metrics_2.png" width="500">
-> <img src="image/metrics_3.png" width="500">
 
-2019 TREC-IS:
+**[2019 TREC-IS](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf):**
+
 >* multi-label and new information type.
 >* metrics: F1-score and accuracy for actionable and all information type in multi-label task. RMSE for actionable and all information type in multi-class task.
 >* feature: 56% participants use word embedding.
