@@ -6,7 +6,7 @@
 >Dataset from Text Retrival Conference Incident Stream (TREC-IS) includes two labels. One is 'categories' label involving 25 information type, which is a multi-label classification task. Another is 'priority' label that includes four categories. It is a multi-class classification task.
 
 
-**[2019 TREC-IS](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf):**
+**[2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)**
 
 >* multi-label and new information type.
 >* metrics: F1-score and accuracy for actionable and all information type in multi-label task. RMSE for actionable and all information type in multi-class task.
@@ -14,6 +14,9 @@
 >* Deep learning is increasing popular from 29% to 39%. However, classic machine learning is more effective.
 >* No participants use link information.
 
+**System Performance:**
+
+<image src="image/overview.png" width="500">
 
 **Project:**
 >* system_0: dataset processing (data cleaning, data augmentation)
