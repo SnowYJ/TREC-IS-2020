@@ -11,9 +11,10 @@
 
 2019 TREC-IS:
 >* multi-label and new information type.
-* feature: 56% participants use word embedding.
-* model: deep learning is increasing popular from 29% to 39%. However, classic machine learning is more effective.
-* no one use link information.
+>* metrics: F1-score and accuracy for actionable and all information type in multi-label task. RMSE for actionable and all information type in multi-class task.
+>* feature: 56% participants use word embedding.
+>* model: deep learning is increasing popular from 29% to 39%. However, classic machine learning is more effective.
+>* no participants use link information.
 
 
 **Project:**
