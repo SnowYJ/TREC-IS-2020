@@ -11,6 +11,9 @@
 * System Performance:
 <image src="image/overview.png" width="700">
 
+[TREC-IS Dataset](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html)
+[2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
+
 ### Project:
 * system_0: dataset processing (data cleaning, data augmentation)
 * system_1: Logistic Regression
@@ -31,8 +34,5 @@
 | RNN | - | 0.4735 | 0.9038 | - | 0.0476 |
 | Bert | - | - | - | - | 0.0523 |
 | - | - | - | - | - | - |
-
-[TREC-IS Dataset:](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html)
-[2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
 
 <img src="image/sheffield.png" width="500">
