@@ -9,6 +9,13 @@
 > <img src="image/metrics_2.png" width="500">
 > <img src="image/metrics_3.png" width="500">
 
+2019 TREC-IS:
+>* multi-label and new information type.
+* feature: 56% participants use word embedding.
+* model: deep learning is increasing popular from 29% to 39%. However, classic machine learning is more effective.
+* no one use link information.
+
+
 **Project:**
 >* system_0: dataset processing (data cleaning, data augmentation)
 >* system_1: Logistic Regression
