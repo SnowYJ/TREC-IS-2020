@@ -1,9 +1,9 @@
 
 ## Classification of tweets for aiding crisis and disaster management.
 
-### [2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
+### TREC-IS 2019 overview:
 
-* multi-label and new information type.
+* Dataset includes two labels. One is 'categories' label involving 25 information type, which is a multi-label classification task. Another is 'priority' label that includes four categories. It is a multi-class classification task.
 * metrics: F1-score and accuracy for actionable and all information type in multi-label task. RMSE for actionable and all information type in multi-class task.
 * 6% participants use word embedding.
 * Deep learning is increasing popular from 29% to 39%. However, classic machine learning is more effective.
@@ -32,8 +32,7 @@
 | Bert | - | - | - | - | 0.0523 |
 | - | - | - | - | - | - |
 
-**[TREC-IS Dataset:](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html)** 
-
->Dataset from Text Retrival Conference Incident Stream (TREC-IS) includes two labels. One is 'categories' label involving 25 information type, which is a multi-label classification task. Another is 'priority' label that includes four categories. It is a multi-class classification task.
+[TREC-IS Dataset:](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html)
+[2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
 
 <img src="image/sheffield.png" width="500">
