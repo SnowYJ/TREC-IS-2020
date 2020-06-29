@@ -22,13 +22,14 @@
 [TREC-IS Dataset](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html),
 [2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
 
-Idea: 
-* Use link in tweets.
-* Unlabel dataset. semi-supervised learning KNN graph.
-* Relation between labels. It there any relationship between labels. seq2seq for multi-label.
-* Multi-task learning. convert two tasks into one task.
-
 ****
+
+Idea: 
+* **Use link in tweets.** However, many link is not accessable.
+* **Use unlabel dataset.** semi-supervised learning or something else.
+* **Relation between labels.** seq2seq for multi-label.
+* **Multi-task learning.** convert two tasks into one task.
+
 
 ### My Project:
 * system_0: dataset processing (data cleaning, data augmentation)
