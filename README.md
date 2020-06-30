@@ -37,6 +37,7 @@ Idea:
 * system_2: bi-GRU and glove (multi-class)
 * system_3: bi-GRU and glove (multi-label)
 * system_4: Bert (multi-class)
+* system_5: Bert (multi-label)
 
 ### Result:
 
