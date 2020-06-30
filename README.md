@@ -56,4 +56,6 @@ Idea:
 ><img src="image/multi-class-rnn.png" width="300"><img src="image/multi-label-rnn.png" width="300">
 
 #### Bert fine-tuning:
-><img src="image/sheffield.png" width="500">
+><img src="image/multi-class-bert.png" width="300">
+
+<img src="image/sheffield.png" width="500">
