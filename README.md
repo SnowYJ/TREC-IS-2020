@@ -53,9 +53,9 @@ Idea:
 | - | - | - | - | - | - |
 
 #### RNN:
-><img src="image/multi-class-rnn.png" width="300"><img src="image/multi-label-rnn.png" width="320">
+><img src="image/multi-class-rnn.png" width="300"><img src="image/multi-label-rnn.png" width="310">
 
 #### Bert fine-tuning:
-><img src="image/multi-class-bert.png" width="300"><img src="image/multi-label-bert.png" width="320">
+><img src="image/multi-class-bert.png" width="300"><img src="image/multi-label-bert.png" width="310">
 
 <img src="image/sheffield.png" width="500">
