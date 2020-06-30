@@ -11,7 +11,7 @@
 * System Performance:
 <image src="image/overview.png" width="800">
 
-### Eight Participants Notebook Conclusion:
+### Eight Participants Notebook:
 * CNN
 * SIF sentence embeddings, pre-trained sentence embeddings, BERT word embeddings + DNN
 * Data enhancement + glove.840B.300d + bi-lstm + NN
@@ -19,11 +19,17 @@
 * Feature engineering + GBT, Random Forest and linear regression.
 * Data augmentation (GPT-2, smote) + bi-LSTM variants.
 
-
 [TREC-IS Dataset](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html),
 [2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
 
 ****
+
+Idea: 
+* **Use link in tweets.** However, many link is not accessable.
+* **Use unlabel dataset.** semi-supervised learning or automatically label those unlabel dataset.
+* **Relation between labels.** seq2seq for multi-label.
+* **Multi-task learning.** convert two tasks into one task.
+
 
 ### My Project:
 * system_0: dataset processing (data cleaning, data augmentation)
