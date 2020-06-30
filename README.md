@@ -52,4 +52,8 @@ Idea:
 | Bert | - | - | - | - | 0.0523 |
 | - | - | - | - | - | - |
 
-<img src="image/sheffield.png" width="500">
+#### RNN:
+><img src="image/multi-class-rnn.png" width="300"><img src="image/multi-label-rnn.png" width="300">
+
+#### Bert fine-tuning:
+><img src="image/sheffield.png" width="500">
