@@ -25,10 +25,10 @@
 ****
 
 Idea: 
-* **Use link in tweets.** However, many link is not accessable.
-* **Use unlabel dataset.** semi-supervised learning or automatically label those unlabel dataset.
-* **Relation between labels.** seq2seq for multi-label.
-* **Multi-task learning.** convert two tasks into one task.
+* **Use link in tweets:** However, many link is not accessable.
+* **Use unlabel dataset:** semi-supervised learning or automatically label those unlabel dataset.
+* **Relation between labels:** seq2seq for multi-label.
+* **Multi-task learning:** convert two tasks into one task.
 
 
 ### My Project:
