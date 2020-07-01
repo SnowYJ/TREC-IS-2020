@@ -4,6 +4,9 @@
 ### TREC-IS 2019 overview:
 
 * Dataset includes two labels. One is 'categories' label involving 25 information type, which is a multi-label classification task. Another is 'priority' label that includes four categories. It is a multi-class classification task.
+
+<img src="image/dataset.png" width="800">
+
 * Metrics: F1-score and accuracy for actionable and all information type in multi-label task. RMSE for actionable and all information type in multi-class task.
 * 6% participants use word embedding.
 * Deep learning is increasing popular from 29% to 39%. However, classic machine learning is more effective.
@@ -25,8 +28,8 @@
 ****
 
 The next ideas might be used for improving participants' result: 
-* **Use link in tweets:** However, many link is not accessable.
-* **Use unlabel dataset:** semi-supervised learning or automatically label those unlabel dataset.
+* **Use link in tweets:** focus on 'critical' labeled tweets.
+* **Use unlabel dataset:** semi-supervised learning or automatically label those unlabel dataset. However, many unlabel might belong to 'Low' type.
 * **Relation between labels:** seq2seq for multi-label.
 * **Multi-task learning:** convert two tasks into one task.
 
