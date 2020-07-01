@@ -32,7 +32,7 @@ Idea:
 
 
 ### My Project:
-* system_0: dataset processing (data cleaning, data augmentation)
+* system_0: dataset processing (data cleaning, data augmentation EDA)
 * system_1: TFIDF Logistic Regression (multi-class & multi-label)
 * system_2: bi-GRU and glove (multi-class)
 * system_3: bi-GRU and glove (multi-label)
