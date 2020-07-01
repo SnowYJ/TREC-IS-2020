@@ -33,11 +33,11 @@ Idea:
 
 ### My Project:
 * system_0: dataset processing (data cleaning, data augmentation)
-* system_1: Logistic Regression
+* system_1: TFIDF Logistic Regression (multi-class & multi-label)
 * system_2: bi-GRU and glove (multi-class)
 * system_3: bi-GRU and glove (multi-label)
-* system_4: Bert (multi-class)
-* system_5: Bert (multi-label)
+* system_4: fine-tuning Bert (multi-class)
+* system_5: fine-tuning Bert (multi-label)
 
 ### Result:
 
