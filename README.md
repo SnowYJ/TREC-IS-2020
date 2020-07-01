@@ -24,19 +24,20 @@
 
 ****
 
-Idea: 
-* **Use link in tweets.** However, many link is not accessable.
-* **Use unlabel dataset.** semi-supervised learning or automatically label those unlabel dataset.
-* **Relation between labels.** seq2seq for multi-label.
-* **Multi-task learning.** convert two tasks into one task.
+The next ideas might be used for improving participants' result: 
+* **Use link in tweets:** However, many link is not accessable.
+* **Use unlabel dataset:** semi-supervised learning or automatically label those unlabel dataset.
+* **Relation between labels:** seq2seq for multi-label.
+* **Multi-task learning:** convert two tasks into one task.
 
 
 ### My Project:
-* system_0: dataset processing (data cleaning, data augmentation)
-* system_1: Logistic Regression
+* system_0: dataset processing (data cleaning, data augmentation EDA)
+* system_1: TFIDF Logistic Regression (multi-class & multi-label)
 * system_2: bi-GRU and glove (multi-class)
 * system_3: bi-GRU and glove (multi-label)
-* system_4: Bert (multi-class)
+* system_4: fine-tuning Bert (multi-class)
+* system_5: fine-tuning Bert (multi-label)
 
 ### Result:
 
@@ -47,15 +48,15 @@ Idea:
 |irlabISI| - | - | - | 0.1132 | - |
 |BJUTDMS| - | - | - | - | 0.0563 |
 | :-: | :-: | :-: | :-: | :-: | :-: | 
-| LR | - | 0.2426 | 0.8191 | - | 0.0401 |
-| RNN | - | **0.4735** | **0.9038** | - | 0.0476 |
-| Bert | - | - | - | - | 0.0523 |
+| TFIDF+LR | - | 0.2426 | 0.8191 | - | 0.0401 |
+| glove+RNN | - | **0.4735** | 0.9038 | - | 0.0476 |
+| Bert+NN | - | 0.4723 | **0.9076** | - | 0.0523 |
 | - | - | - | - | - | - |
 
 #### RNN:
-><img src="image/multi-class-rnn.png" width="300"><img src="image/multi-label-rnn.png" width="300">
+><img src="image/multi-class-rnn.png" width="300"><img src="image/multi-label-rnn.png" width="315">
 
 #### Bert fine-tuning:
-><img src="image/multi-class-bert.png" width="300"><img src="image/multi-label-bert.png" width="300">
+><img src="image/multi-class-bert.png" width="300"><img src="image/multi-label-bert.png" width="315">
 
 <img src="image/sheffield.png" width="500">
