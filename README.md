@@ -28,7 +28,7 @@
 ****
 
 The next ideas might be used for improving participants' result: 
-* **Use link in tweets:** However, many link is not accessable.
+* **Use link in tweets:** focus on 'critical' labeled tweets.
 * **Use unlabel dataset:** semi-supervised learning or automatically label those unlabel dataset.
 * **Relation between labels:** seq2seq for multi-label.
 * **Multi-task learning:** convert two tasks into one task.
