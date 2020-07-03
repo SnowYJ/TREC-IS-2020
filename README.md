@@ -34,7 +34,9 @@ Reference:
 
 The next ideas might be used for improving participants' result: 
 * **Use link in tweets:** focus on 'critical' labeled tweets.
+* **Feature engineering:** manually construct dataset instead of word embedding.
 * **Use ensemble learning:**
+
 * **Relation between labels:** seq2seq for multi-label.
 * **Multi-task learning:** convert two tasks into one task.
 
