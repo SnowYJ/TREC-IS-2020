@@ -36,9 +36,9 @@ Reference:
 
 1. **Feature engineering:** manually construct dataset instead of word embedding.
 >* NER feature: number of location, person, organization mentioned in tweets.
->* Social feature: number of friends, followers, retweet.
->* Morphological features: number of words, upper case words, emoji, hashtags and URLs.
->* Sentiment features: number of positive and negative words. 
+* Social feature: number of friends, followers, retweet.
+* Morphological features: number of words, upper case words, emoji, hashtags and URLs.
+* Sentiment features: number of positive and negative words. 
 
 2. **Use ensemble learning:**
 
