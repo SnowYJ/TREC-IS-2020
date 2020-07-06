@@ -32,7 +32,8 @@ Reference:
 
 ****
 
-Improvement Plan:
+### Improvement Plan:
+
 **Feature engineering:** manually construct dataset instead of word embedding.
 >* NER feature: number of location, person, organization mentioned in tweets.
 >* Social feature: number of friends, followers, retweet.
