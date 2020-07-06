@@ -34,19 +34,19 @@ Reference:
 
 ### Improvement Plan:
 
-**Feature engineering:** manually construct dataset instead of word embedding.
+1. **Feature engineering:** manually construct dataset instead of word embedding.
 >* NER feature: number of location, person, organization mentioned in tweets.
 >* Social feature: number of friends, followers, retweet.
 >* Morphological features: number of words, upper case words, emoji, hashtags and URLs.
 >* Sentiment features: number of positive and negative words. 
 
-**Use ensemble learning:**
+2. **Use ensemble learning:**
 
-**Use link in tweets:** focus on 'critical' labeled tweets.
+3. **Use link in tweets:** focus on 'critical' labeled tweets.
 
-**Relation between labels:** seq2seq for multi-label.
+4. **Relation between labels:** seq2seq for multi-label.
 
-**Multi-task learning:** convert two tasks into one task.
+5. **Multi-task learning:** convert two tasks into one task.
 
 
 ### My Project:
