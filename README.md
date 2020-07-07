@@ -22,20 +22,35 @@
 * Feature engineering + GBT, Random Forest and linear regression.
 * Data augmentation (GPT-2, smote) + bi-LSTM variants.
 
+### Future Advice:
+
+<img src="image/future.png" width="600">
+
+Reference:
 [TREC-IS Dataset](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/data.html),
 [2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
 
 ****
 
-The next ideas might be used for improving participants' result: 
-* **Use link in tweets:** focus on 'critical' labeled tweets.
-* **Use unlabel dataset:** semi-supervised learning or automatically label those unlabel dataset. However, many unlabel might belong to 'Low' type.
-* **Relation between labels:** seq2seq for multi-label.
-* **Multi-task learning:** convert two tasks into one task.
+### Improvement Plan:
+
+1. **Feature engineering:** manually construct dataset instead of word embedding.
+>* NER feature: number of location, person, organization mentioned in tweets.
+>* Social feature: number of friends, followers, retweet.
+>* Morphological features: number of words, upper case words, emoji, hashtags and URLs.
+>* Sentiment features: number of positive and negative words. 
+
+2. **Use ensemble learning:**
+
+3. **Use link in tweets:** focus on 'critical' labeled tweets.
+
+4. **Relation between labels:** seq2seq for multi-label.
+
+5. **Multi-task learning:** convert two tasks into one task.
 
 
 ### My Project:
-* system_0: dataset processing (data cleaning, data augmentation EDA)
+* system_0: dataset processing (data cleaning, feature engineering and data augmentation EDA)
 * system_1: TFIDF Logistic Regression (multi-class & multi-label)
 * system_2: bi-GRU and glove (multi-class)
 * system_3: bi-GRU and glove (multi-label)
@@ -51,7 +66,7 @@ The next ideas might be used for improving participants' result:
 |irlabISI| - | - | - | 0.1132 | - |
 |BJUTDMS| - | - | - | - | 0.0563 |
 | :-: | :-: | :-: | :-: | :-: | :-: | 
-| TFIDF+LR | - | 0.2426 | 0.8191 | - | 0.0401 |
+| TFIDF+LR | - | 0.2426 | 0.8191 | - | 0.0471 |
 | glove+RNN | - | **0.4735** | 0.9038 | - | 0.0476 |
 | Bert+NN | - | 0.4723 | **0.9076** | - | 0.0523 |
 | - | - | - | - | - | - |
