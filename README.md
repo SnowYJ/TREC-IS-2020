@@ -31,7 +31,8 @@ Reference:
 [2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
 
 ****
-<img src="image/system.png" width="600">
+<img src="image/system.png" width="800">
+
 ### Improvement Plan:
 
 1. **Feature engineering:** manually construct dataset instead of word embedding.
