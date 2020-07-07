@@ -45,12 +45,6 @@ Reference:
 
 3. **Use link in tweets:** focus on 'critical' labeled tweets.
 
-4. **Relation between labels:** seq2seq for multi-label.
-
-5. **Multi-task learning:** convert two tasks into one task.
-
-
-
 ### My Project:
 * system_0: dataset processing (data cleaning, feature engineering and data augmentation EDA)
 * system_1: TFIDF Logistic Regression (multi-class & multi-label)
