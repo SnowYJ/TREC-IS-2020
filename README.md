@@ -31,7 +31,7 @@ Reference:
 [2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
 
 ****
-
+<img src="image/system.png" width="600">
 ### Improvement Plan:
 
 1. **Feature engineering:** manually construct dataset instead of word embedding.
@@ -47,6 +47,7 @@ Reference:
 4. **Relation between labels:** seq2seq for multi-label.
 
 5. **Multi-task learning:** convert two tasks into one task.
+
 
 
 ### My Project:
