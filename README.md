@@ -31,6 +31,7 @@ Reference:
 [2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
 
 ****
+<img src="image/system.png" width="800">
 
 ### Improvement Plan:
 
@@ -43,11 +44,6 @@ Reference:
 2. **Use ensemble learning:**
 
 3. **Use link in tweets:** focus on 'critical' labeled tweets.
-
-4. **Relation between labels:** seq2seq for multi-label.
-
-5. **Multi-task learning:** convert two tasks into one task.
-
 
 ### My Project:
 * system_0: dataset processing (data cleaning, feature engineering and data augmentation EDA)
@@ -66,8 +62,8 @@ Reference:
 |irlabISI| - | - | - | 0.1132 | - |
 |BJUTDMS| - | - | - | - | 0.0563 |
 | :-: | :-: | :-: | :-: | :-: | :-: | 
-| TFIDF+LR | - | 0.2426 | 0.8191 | - | 0.0471 |
-| glove+RNN | - | **0.4735** | 0.9038 | - | 0.0476 |
+| TFIDF+LR | - | 0.2426=>0.2642 | 0.8191=>0.8350 | - | 0.0471=>0.0454 |
+| glove+RNN | - | 0.4735=>**0.5052** | 0.9038=>0.9010 | - | 0.0476=>0.0510 |
 | Bert+NN | - | 0.4723 | **0.9076** | - | 0.0523 |
 | - | - | - | - | - | - |
 
