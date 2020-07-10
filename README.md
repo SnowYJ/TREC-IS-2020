@@ -41,6 +41,7 @@ Reference:
 >* Morphological features: number of words, upper case words, emoji, hashtags and URLs.
 >* Sentiment features: number of positive and negative words. 
 
+<img src="image/feature_importance.png" width="400">
 2. **Use ensemble learning:**
 
 3. **Use link in tweets:** focus on 'critical' labeled tweets.
