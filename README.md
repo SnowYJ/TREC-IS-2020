@@ -42,6 +42,7 @@ Reference:
 >* Sentiment features: number of positive and negative words. 
 
 <img src="image/feature_importance.png" width="400">
+<img src="image/feature_importance_1.png" width="600">
 2. **Use ensemble learning:**
 
 3. **Use link in tweets:** focus on 'critical' labeled tweets.
