@@ -40,7 +40,7 @@ Reference:
 >* Social feature: number of friends, followers, retweet.
 >* Morphological features: number of words, upper case words, emoji, hashtags and URLs.
 >* Sentiment features: number of positive and negative words. 
-><img src="image/feature_importance_1.png" width="700">
+><img src="image/feature_importance_1.png" width="500">
 
 2. **Use ensemble learning:**
 
