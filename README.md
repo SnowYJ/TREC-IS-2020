@@ -40,7 +40,6 @@ Reference:
 >* Social feature: number of friends, followers, retweet.
 >* Morphological features: number of words, upper case words, emoji, hashtags and URLs.
 >* Sentiment features: number of positive and negative words. 
-><img src="image/feature_importance_1.png" width="500">
 
 2. **Use ensemble learning:**
 
@@ -64,14 +63,8 @@ Reference:
 |BJUTDMS| - | - | - | - | 0.0563 |
 | :-: | :-: | :-: | :-: | :-: | :-: | 
 | TFIDF+LR | - | 0.2426=>0.2642 | 0.8191=>0.8350 | - | 0.0471=>0.0454 |
-| glove+RNN | - | 0.4735=>**0.5052** | 0.9038=>0.9010 | - | 0.0476=>0.0510 |
+| glove+RNN | - | 0.4735=>**0.4950** | 0.9038=>0.9010 | - | 0.0476=>0.0491 |
 | Bert+NN | - | 0.4723 | **0.9076** | - | 0.0523 |
 | - | - | - | - | - | - |
-
-#### RNN:
-><img src="image/multi-class-rnn.png" width="300"><img src="image/multi-label-rnn.png" width="315">
-
-#### Bert fine-tuning:
-><img src="image/multi-class-bert.png" width="300"><img src="image/multi-label-bert.png" width="315">
 
 <img src="image/sheffield.png" width="500">
