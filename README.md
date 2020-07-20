@@ -45,7 +45,7 @@ Reference:
 3. **Use link in tweets:** focus on 'critical' labeled tweets.
 
 
-<img src="image/ensemble-learning.png" width="400"><img src="image/system.png" width="400">
+<img src="image/ensemble-learning.png" width="500"><img src="image/system.png" width="500">
 
 
 ### My Project:
