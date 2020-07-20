@@ -39,12 +39,14 @@ Reference:
 >* Social feature: number of friends, followers, retweet.
 >* Morphological features: number of words, upper case words, emoji, hashtags and URLs.
 >* Sentiment features: number of positive and negative words. 
-<img src="image/ensemble-learning.png" width="800">
 
 2. **Use ensemble learning:**
-<img src="image/system.png" width="800">
 
 3. **Use link in tweets:** focus on 'critical' labeled tweets.
+
+
+<img src="image/ensemble-learning.png" width="800">
+<img src="image/system.png" width="800">
 
 ### My Project:
 * system_0: dataset processing (data cleaning, feature engineering and data augmentation EDA)
