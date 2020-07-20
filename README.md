@@ -31,7 +31,6 @@ Reference:
 [2019 TREC-IS overview](http://dcs.gla.ac.uk/~richardm/TREC_IS/2020/ISCRAM_2020_TREC_IS.pdf)
 
 ****
-<img src="image/system.png" width="800">
 
 ### Improvement Plan:
 
@@ -40,8 +39,10 @@ Reference:
 >* Social feature: number of friends, followers, retweet.
 >* Morphological features: number of words, upper case words, emoji, hashtags and URLs.
 >* Sentiment features: number of positive and negative words. 
+<img src="image/ensemble-learning.png" width="800">
 
 2. **Use ensemble learning:**
+<img src="image/system.png" width="800">
 
 3. **Use link in tweets:** focus on 'critical' labeled tweets.
 
